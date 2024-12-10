@@ -14,3 +14,7 @@
 #top-page-img {
   width: 100%;
 }
+
+footer .line {
+  background-color: #00CCCC; /* 背景の色　#00CCCC */
+}
